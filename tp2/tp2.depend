@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1589341539 source:c:\users\lenovo\documents\programacion\tp2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"utn.h"
+
+1589341536 c:\users\lenovo\documents\programacion\tp2\utn.h
+
+1589672566 source:c:\users\lenovo\documents\programacion\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"arrayEmployees.h"
+
+1589672228 c:\users\lenovo\documents\programacion\tp2\datawarehouse.h
+
+1589672399 c:\users\lenovo\documents\programacion\tp2\arrayemployees.h
+
+1589672580 source:c:\users\lenovo\documents\programacion\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"datawarehouse.h"
+	"arrayEmployees.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1587166335 source:c:\users\lenovo\documents\programacion\calcu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1587166320 source:c:\users\lenovo\documents\programacion\calcu\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1587166320 c:\users\lenovo\documents\programacion\calcu\operaciones.h
+
